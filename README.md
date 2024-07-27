@@ -166,7 +166,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Contact
 
 If you want to contact me, you can reach me through below handles. <br />
-[![GitHub](https://img.shields.io/badge/Sufiyan_Shaikh-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/suFi7867)
+[![GitHub](https://github.com/Mehulraj21)]
 
 
 
