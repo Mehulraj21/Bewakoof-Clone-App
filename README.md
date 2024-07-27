@@ -29,7 +29,7 @@
 
 
 
-<h3 align="center"><a href="https://bewakoof-clone-sufi.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://bewakoof-clone.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
 
 
