@@ -91,16 +91,11 @@ Bewakoof.com Clone is ReactJS e-commerce web application that allows you to buy 
     <td><img src="https://i.ibb.co/PwN1BXc/Capture4.png"  alt="men" /></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/DgKv24V/Capture11.png" height="300px" alt="allProducts" /></td>
     <td><img src="https://i.ibb.co/Cz01hGD/Capture12.png"  alt="men" /></td>
   </tr>
   <tr>
     <td><img src="https://i.ibb.co/m8MMQXp/Capture5.png"  alt="women" /></td>
     <td><img src="https://i.ibb.co/dt1VbjM/Capture6.png"  alt="kids" /></td>
-  </tr>
-   <tr>
-    <td><img src="https://i.ibb.co/7Nvrd2x/Capture9.png"   alt="women" /></td>
-    <td><img src="https://i.ibb.co/TmCf3fr/Capture10.png"   alt="kids" /></td>
   </tr>
   <tr>
     <td><img src="https://i.ibb.co/ypKg5zz/Capture7.png"  alt="description" /></td>
